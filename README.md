@@ -1,3 +1,3 @@
 # TryOuts
 
-Spotify MP3 downloader using spotdl
+Spotdownloader: Spotify MP3 downloader using spotdl
